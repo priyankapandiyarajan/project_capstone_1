@@ -10,7 +10,9 @@ BATCH: MDTE07
 
 DOMAIN : DATA SCIENCE
 
-LINKED IN URL : 
+LINKED IN URL : https://www.linkedin.com/in/priyanka-p-281a4a261/details/projects/?profileUrn=urn%3Ali%3Afsd_profile%3AACoAAEBnkQEB23IjAt7qGAzFpzRnA4lZnvQNdZ4
+
+DEMO VIDEO : https://www.linkedin.com/feed/update/urn:li:activity:7199837306059464704/
 
 ![Intro GUI](https://github.com/priyankapandiyarajan/project_capstone_1/blob/main/Youtube%20Data.png)
 
